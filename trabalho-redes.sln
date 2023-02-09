@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhoRedes", "TrabalhoRedes\TrabalhoRedes.csproj", "{5650F90F-247A-46E5-9C8C-8BEE8F4886F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5650F90F-247A-46E5-9C8C-8BEE8F4886F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5650F90F-247A-46E5-9C8C-8BEE8F4886F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5650F90F-247A-46E5-9C8C-8BEE8F4886F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5650F90F-247A-46E5-9C8C-8BEE8F4886F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {077B5DEC-9364-41CD-A786-D404F6E6939C}
+	EndGlobalSection
+EndGlobal
